@@ -1,0 +1,8 @@
+name: myapp
+account: globalcampers
+server: shinyapps.io
+bundleId: 333549
+url: https://globalcampers.shinyapps.io/myapp
+when: 1450312163.1773
+asMultiple: FALSE
+asStatic: FALSE
